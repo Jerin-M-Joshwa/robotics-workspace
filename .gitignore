@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vscode/
+
+# ROS
+build/
+install/
+log/
+
+# C++
+*.o
+*.out
+*.a
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Temporary
+*.swp
+*.tmp
